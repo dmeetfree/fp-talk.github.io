@@ -62,7 +62,16 @@ into pure abstractions and conceptual description over more machine-centric and 
 
 
 ### External links
-[Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
-[Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
-[Lambda as JS, or a flock of functions](https://glebec.github.io/lambda-talk/)
+[Functional programming](https://en.wikipedia.org/wiki/Functional_programming)   
+[Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)   
+[Lambda as JS, or a flock of functions](https://glebec.github.io/lambda-talk/)   
 
+### Videos
+[Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://youtu.be/3VQ382QG-y4)   
+[A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS - Part II](https://youtu.be/pAnLQ9jwN-E)   
+[Brian Beckman: Don't fear the Monad](https://youtu.be/ZhuHCtR3xq8)   
+[Category Theory 10.1: Monads](https://youtu.be/gHiyzctYqZ0)   
+[Functional Objects, Functors, and Monads in JavaScript(RUS)](https://youtu.be/3Z7f0Gi8pxw)   
+[Lambda calculus and functional programming. Part 1 | Lecture(RUS)](https://youtu.be/dowYB_dPkmU)   
+[Functors and monads. Functional programming. Part 2 | Lecture(RUS)](https://youtu.be/t2SaSHQhkdE)   
+[]()   
